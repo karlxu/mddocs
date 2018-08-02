@@ -34,3 +34,4 @@ In this tutorial, we walk you through setting up Visual Studio Code and give an 
 ## Next Video
 
 * [Customize VS Code](/docs/introvideos/configure.md) - Learn how to personalize VS Code to your work style.
+* 我添加的
